@@ -1,5 +1,4 @@
 # hello-world
-<<<<<<< HEAD
 =======
 how do i into github
 
